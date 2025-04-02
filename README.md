@@ -9,8 +9,8 @@ PGOP is a modular, open-source intelligence platform designed to democratize acc
 ## 🧠 Features
 
 - **🕷️ OSINT Engine** – Automated profiling with SpiderFoot + enhanced modules
-- **🤖 AI Assistant** – Summarize scans, classify targets, and suggest next steps (local and hosted LLM support via Ollama)
-- **🖼️ Multimedia Analysis** – ExifTool, facial similarity, image geolocation
+- **🤖 AI Assistant** – Facilitate and summarize scans, classify targets, and suggest next steps (local and hosted LLM support via Ollama)
+- **🖼️ Multimedia Analysis** – ExifTool, image geolocation
 - **🔗 Blockchain Forensics** – Wallet & contract tracing via Etherscan, Bitquery, Breadcrumbs
 - **🗃️ Immutable Reporting** – Publish findings to IPFS + Orbit Chain or Base
 - **🕶️ Privacy Layer** – Optional zero-knowledge redaction using Holonym/Human.Tech
@@ -25,8 +25,8 @@ PGOP is a modular, open-source intelligence platform designed to democratize acc
 The current focus of PGOP is to deliver a lean, working prototype:
 
 - 🕷️ SpiderFoot-powered scans  
-- 🤖 AI-generated summaries (OpenAI or Ollama)  
-- 🔒 Zero-knowledge redaction (via Holonym)  
+- 🤖 AI-generated summaries (Ollama)  
+- 🔒 Zero-knowledge redaction  
 - 📡 Publishing to IPFS or Orbit/Base  
 
 All other features are modular or in progress. PRs welcome!
