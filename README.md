@@ -20,6 +20,19 @@ PGOP is a modular, open-source intelligence platform designed to democratize acc
 
 ---
 
+## 🔧 MVP Scope
+
+The current focus of PGOP is to deliver a lean, working prototype:
+
+- 🕷️ SpiderFoot-powered scans  
+- 🤖 AI-generated summaries (OpenAI or Ollama)  
+- 🔒 Zero-knowledge redaction (via Holonym)  
+- 📡 Publishing to IPFS or Orbit/Base  
+
+All other features are modular or in progress. PRs welcome!
+
+---
+
 ## 🤖 Local & Hosted AI Model Support
 
 PGOP supports:
